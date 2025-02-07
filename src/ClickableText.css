@@ -6,12 +6,13 @@
   width: 300px; /* Fixed width */
   height: 300px; /* Adjusted height */
   font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif; /* Neutral font */
   text-align: center;
   padding: 20px;
-  background-color: #ffe6e6;
+  background-color: #ffffff;
   color: #b30000;
   user-select: none;
-  border: 2px solid #ff6666; /* Add a border */
+  border: 2px solid #ffffff; /* Add a border */
   border-radius: 8px; /* Rounded corners */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow */
 }
@@ -28,5 +29,5 @@
 }
 
 .clickable-text:active {
-  background-color: #ffcccc;
+  background-color: #ffffff;
 }
