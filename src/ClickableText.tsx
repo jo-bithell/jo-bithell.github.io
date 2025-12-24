@@ -20,9 +20,6 @@ function ClickableText() {
       text: "It's clear you've surrounded yourself with like-minded, friendly people who enjoy your company, and I've enjoyed meeting them all. I also can't wait to meet your family next year!",
     },
     {
-      text: "You're everything I could ask for in a sexual partner. You're skilled, generous, patient, respectful, clean, outrageously sexy, a brilliant communicator, and accepting of when things don't go to plan.",
-    },
-    {
       text: "Maybe above all, spending time with you fills me with so much joy and warmth. I'm excited for every date, we always have great conversations and you make me laugh all the time. You're the perfect combination of all the things I want from a girlfriend.",
     },
     {
